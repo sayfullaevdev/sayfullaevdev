@@ -12,49 +12,18 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I’m a passionate Frontend Developer who loves turning ideas into fast, scalable, and visually stunning web applications. My main tools are React.js, Next.js, Node.js, TypeScript, and I also explore React Native for mobile apps. I enjoy experimenting with new technologies, clean architecture, and performance optimizations. </p>
-
-- ✨ Lifelong learner – every day is a chance to level up.:)
-- 🌱Currently diving into modern frontend patterns, mobile development, and full-stack best practices.
-- 💡 I focus on building intuitive and elegant solutions that not only work flawlessly but also provide great user experiences.
-- 🚀 I’m constantly pushing the boundaries of what web and mobile apps can do, exploring new features, and experimenting with innovative approaches.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sayfullaevdev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="YOUR_GITHUB_USERNAME" style="padding-right:20px;" />
+  I'm a Full-Stack & Mobile Developer who ships production-ready web and mobile applications —
+  from architecture to deployment. My core stack is <b>React.js, Next.js, NestJS, Node.js,
+  TypeScript</b> on web, and <b>React Native (Expo)</b> on mobile. I've worked across multiple
+  commercial projects, building scalable APIs, cross-platform apps, and clean, performant UIs.
 </p>
 
-
----
-
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Mastering <b>React.js, Next.js, Node.js, TypeScript</b> and advanced frontend patterns.</li>
-  <li>Exploring <b>React Native</b> for mobile app development.</li>
-  <li>Experimenting with <b>performance optimization</b> and large-scale full-stack architecture.</li>
-  <li>Learning cloud computing with <b>AWS</b> and modern DevOps practices.</li>
-</ul>
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
+- 🏗️ Full-stack in practice — I own the entire product, from database to UI
+- 📱 Shipping real cross-platform apps with **React Native & Expo**
+- ⚙️ Backend powered by **NestJS** — clean architecture, scalable REST APIs
+- 💡 I build solutions that are fast, maintainable, and actually enjoyable to use
+- 🚀 Always exploring — modern patterns, mobile dev, cloud infra, and beyond
 
 <!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
